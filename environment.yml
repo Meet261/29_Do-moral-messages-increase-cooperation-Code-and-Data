@@ -4,15 +4,4 @@ channels:
 dependencies:
   - r-base=4.2
   - r-rethinking
-  - r-tidyverse
-  - r-lme4
-  - r-car
-  - libgcc-ng
-  - r-rcpp
-  - r-rstan
-  - r-stringi
-  - libicu=58
-  - r-dplyr
-  - r-ggplot2
-  - r-posterior
-  - r-viridis
+
