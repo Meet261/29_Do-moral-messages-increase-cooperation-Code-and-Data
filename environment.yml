@@ -1,7 +1,6 @@
-name: do_moral_messages_increase_cooperation
+name: moral_messages_cooperation
 channels:
   - conda-forge
 dependencies:
   - r-base=4.2
-  - r-rethinking
-
+  - r-devtools
